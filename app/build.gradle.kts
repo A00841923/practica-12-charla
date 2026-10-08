@@ -25,7 +25,7 @@ android {
     defaultConfig {
         applicationId = "mx.tec.charla"
         minSdk = 24
-        targetSdk = 37
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
